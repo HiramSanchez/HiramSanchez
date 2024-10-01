@@ -7,8 +7,6 @@ Backend developer, I believe that with the right attitude and a touch of creativ
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Amazon Web Services
-- ⚡ Connect with me -->
-<div align="center"><a href="https://linkedin.com/in/hiramsanchezib" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> </div>
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
