@@ -1,9 +1,9 @@
 <img src="https://github.com/HiramSanchez/HiramSanchez/blob/main/resources/gHeader.png">
 
 ## Hi, there 👋🏻
-- 👨🏻‍💻 I'm a backend developer coding microservices in Java Spring Boot, I believe that with the right attitude and a touch of creativity, every problem has a solution. Always ready to embrace new challenges!
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Amazon Web Services
+I'm a backend developer building microservices using Java-Spring Boot. This GitHub repository is dedicated to my personal projects, feel free to reach out, or contribute by creating a feature branch for any new ideas!
+- 👨🏻‍💻 I’m currently working on something cool!
+- 🌱 I’m currently learning AWS, Kubernates container orchestration, & design patterns.
 
 ## Github Stats  
 <table align="center" ><tr><td width="50%">
