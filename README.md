@@ -12,7 +12,7 @@ I'm a backend developer building microservices using Java-Spring Boot. This GitH
   
 </td><td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&theme=cobalt&hide_border=true&bg_color=301B3E&icon_color=927A9A&text_color=79C19E&title_color=EE7381" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&theme=cobalt&hide_border=true&bg_color=301B3E&icon_color=927A9A&text_color=79C19E&title_color=EE7381&layout=compact" align="center" />
 </div>  
 </td></tr></table>
 
