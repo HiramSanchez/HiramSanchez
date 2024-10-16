@@ -2,7 +2,6 @@
 
 ## Hi, there 👋🏻
 I'm a backend developer building microservices using Java-Spring Boot. This GitHub repository is dedicated to my personal projects, feel free to reach out, or contribute by creating a feature branch for any new ideas!
-- 👨🏻‍💻 I’m currently working on something cool!
 
 ## Github Stats  
 <table align="center" ><tr><td width="50%">
