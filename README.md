@@ -1,7 +1,11 @@
 <img src="https://github.com/HiramSanchez/HiramSanchez/blob/main/resources/gHeader.png">
 
-## Hi, there 👋🏻
-I'm a backend developer building microservices using Java-Spring Boot. This GitHub repository is dedicated to my personal projects, feel free to reach out, or contribute by creating a feature branch for any new ideas!
+## Hi, i´m Hiram 👋🏻
+Software developer focused on back-end development.  
+These are my personal projects, feel free to explore, reach out, or contribute by creating a feature branch with your ideas!
+
+- 👨🏻‍💻 I´m working on somenthing cool.
+- ⚡ I´m learning Design Patterns.
 
 ## Github Stats  
 <table align="center" ><tr><td width="50%">
@@ -33,8 +37,6 @@ I'm a backend developer building microservices using Java-Spring Boot. This GitH
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
     &emsp;
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  &emsp;
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
     &emsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div> 
