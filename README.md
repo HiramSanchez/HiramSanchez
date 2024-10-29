@@ -1,4 +1,5 @@
-<img src="https://github.com/HiramSanchez/HiramSanchez/blob/main/resources/gHeader.png">
+
+<p align="center"><img width="80%" src="./resources/gHeader.png" /></p>
 
 ## Hello there 👋🏻 
 These are my personal projects, feel free to explore, reach out, or contribute by creating a feature branch with your ideas!
