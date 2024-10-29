@@ -10,11 +10,11 @@ These are my personal projects, feel free to explore, reach out, or contribute b
 ## Github Stats  
 <table align="center" ><tr><td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiramSanchez&show_icons=true&theme=cobalt&hide_border=true&bg_color=301B3E&icon_color=927A9A&text_color=79C19E&title_color=EE7381" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HiramSanchez&show_icons=true&theme=cobalt&hide_border=true&bg_color=1E431B&icon_color=B1261B&text_color=809A45&title_color=EED2A3" align="center" />
 </div>  
   
 </td><td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&theme=cobalt&hide_border=true&bg_color=301B3E&icon_color=927A9A&text_color=79C19E&title_color=EE7381&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&theme=cobalt&hide_border=true&bg_color=1E431B&icon_color=EED2A3&text_color=809A45&title_color=EED2A3&layout=compact" align="center" />
 </div>  
 </td></tr></table>
