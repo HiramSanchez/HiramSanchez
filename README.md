@@ -20,6 +20,6 @@ These are my personal projects, feel free to explore, reach out, or contribute b
   
 </td><td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&hide_border=true&theme=buefy&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&hide_border=true&theme=buefy&layout=compact&text_color=242938" align="center" />
 </div>  
 </td></tr></table>
