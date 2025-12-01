@@ -10,7 +10,7 @@ These are my personal projects, feel free to explore, reach out, or contribute b
 </br>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,redis,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,javascript,aws,azure)](https://skillicons.dev)
 </div>
 
 <table align="center" ><tr><td width="50%">
