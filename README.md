@@ -15,11 +15,11 @@ These are my personal projects, feel free to explore, reach out, or contribute b
 
 <table align="center" ><tr><td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiramSanchez&show_icons=true&hide_border=true&theme=buefy&icon_color=61bc85&text_color=242938" align="center" />
+  <img src="https://github-readme-stats-hiramsanchez.vercel.app/api?username=HiramSanchez&show_icons=true&hide_border=true&theme=buefy&icon_color=61bc85&text_color=242938" align="center" />
 </div>  
   
 </td><td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramSanchez&hide_border=true&theme=buefy&layout=compact&text_color=242938" align="center" />
+  <img src="https://github-readme-stats-hiramsanchez.vercel.app/api/top-langs/?username=HiramSanchez&hide_border=true&theme=buefy&layout=compact&text_color=242938" align="center" />
 </div>  
 </td></tr></table>
