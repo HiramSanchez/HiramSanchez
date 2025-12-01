@@ -5,7 +5,6 @@
 These are my personal projects, feel free to explore, reach out, or contribute by creating a feature branch with your ideas!
 
 - 👨🏻‍💻 Back End Developer
-- 📱 Interested in mobile
 - ⚡ I build microservices with Java
 </br>
 <div align="center">
