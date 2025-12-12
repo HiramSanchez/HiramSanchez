@@ -4,7 +4,9 @@
 ## Hello there 👋🏻 
 These are my personal projects, feel free to explore, reach out, or contribute by creating a feature branch with your ideas!
 
-- 👨🏻‍💻 Back End Developer
+- 👨🏻‍💻 Back End
+- ⚡ I build microservices with Java
+- ☕ Coffee lover
 </br>
 <div align="center">
 
