@@ -1,22 +1,13 @@
-
 <p align="center"><img width="80%" src="./resources/gHeader.png" /></p>
 
 ## Hello there 👋🏻 
+
 These are my personal projects, feel free to explore, reach out, or contribute by creating a feature branch with your ideas!
 
 </br>
-<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,aws,azure)](https://skillicons.dev)
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kotlin,mysql,mongodb,aws,gcp,azure)](https://skillicons.dev)
+
 </div>
-
-<table align="center" ><tr><td width="50%">
-<div align="center">
-  <img src="https://github-readme-stats-ix6z.vercel.app/api?username=HiramSanchez&show_icons=true&hide_border=true&theme=buefy&icon_color=DB8EA3&text_color=242938" align="center" />
-</div>  
-
-</td><td width="50%">
-<div align="center">
-  <img src="https://github-readme-stats-ix6z.vercel.app/api/top-langs/?username=HiramSanchez&hide_border=true&theme=buefy&layout=compact&text_color=242938" align="center" />
-</div>  
-</td></tr></table>
