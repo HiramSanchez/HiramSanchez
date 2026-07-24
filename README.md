@@ -6,6 +6,7 @@
   
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,mysql,mongodb,aws,gcp)](https://skillicons.dev)
 </div>
+
 <br>
   
 **👋 Welcome to my GitHub**
@@ -20,3 +21,7 @@ and building them better
 - ☁️ AWS
 - 💜 Kotlin 
 - 🤖 AI-DLC
+<div align="center">
+  
+[![My Stats](https://github-stats-extended.vercel.app/api?username=HiramSanchez&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true&icon_color=DB8EA3)](https://vercel.app)
+</div>
